@@ -1,0 +1,5 @@
+rootProject.name = 'movieTfeSpring'
+include 'movie-core'
+include 'movie-web'
+include 'movie-client'
+

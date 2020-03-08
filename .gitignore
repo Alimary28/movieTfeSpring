@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/movie-client/out/
+/movie-client/out/production/classes/
+/movie-core/out/
+/movie-core/out/production/classes/
+/movie-web/build/
+/movie-web/out/
+/movie-web/out/production/classes/
